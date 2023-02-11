@@ -7,4 +7,5 @@ Remove picture background in batches.
 网站：https://www.remove.bg/r/LXKqzDDyx5hMYYvrWzHDzNLJ?locale=zh
 
 Login and acquire the api and key(You can use 50 times in free).
+
 Website:https://www.remove.bg/r/LXKqzDDyx5hMYYvrWzHDzNLJ?locale=zh
