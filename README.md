@@ -1,5 +1,6 @@
 # No_BG
 批量去除图片背景。
+
 Remove picture background in batches.
 
 需要注册并获取api key(免费使用50次)。
